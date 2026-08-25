@@ -1,0 +1,5 @@
+# Environment directories
+myenv/
+tf_env/
+.ipynb_checkpoints/
+__pycache__/
